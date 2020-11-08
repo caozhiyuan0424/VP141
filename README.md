@@ -1,5 +1,5 @@
 # VP141
-2019SU VP141 Lab Report
+2019SU VP141 Pyhsics Lab Report
 
 This is my personal lab report written in SU2019. Hope it can stimulate some inspirations for future JI students. As for Honor Code, the owner of this repository dosen't take any commitment for other's faults.  
 
